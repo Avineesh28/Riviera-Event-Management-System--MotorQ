@@ -1,9 +1,13 @@
 <h1>Riviera Event Management System</h1>
-The following project is an attempt for the MotorW Round 2 Selection Process for the AE Track which was a 24hrs Solothon where we had to build a Web Application that acts as a Event Management System for the Fest in VIT known as Riviera.|
-Steps to Install File
+The following project is an attempt for the MotorW Round 2 Selection Process for the AE Track which was a 24hrs Solothon where we had to build a Web Application that acts as a Event Management System for the Fest in VIT known as Riviera.
+<br>
+<h2>Steps to Install File</h2>
 -> Download the Folder
+<br>
 -> Install all the required dependencies present in the requirement.txt file
+<br>
 -> Run the App through Live Server of VS Code
+<br>
 
 Landing Page Look
 
