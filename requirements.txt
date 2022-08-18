@@ -1,0 +1,6 @@
+mongoose
+express
+express-handlebars
+nodemailer
+nodemon
+hbs
